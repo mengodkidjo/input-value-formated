@@ -14,6 +14,7 @@ i develop a few month ago an app and an addon for Firefox and Chrome about the p
 [playstore](https://play.google.com/store/apps/details?id=com.ledoc229.pomodoro), 
 [Firefox](https://addons.mozilla.org/fr/firefox/addon/pomodoro-addon/), 
 [chrome](https://chrome.google.com/webstore/detail/pomodoroaddon/ahnlkheoldhohigbeeikiieifkagoikc)
+My contact[^1]:
 [^1]: Contact me if you want collabo, or anything else.
 [Twitter](https://twitter.com/darrell_kidjo)
 [Instagram](https://www.instagram.com/kidjodarrell?r=nametag)
