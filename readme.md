@@ -10,8 +10,13 @@ Actually you can :
 - [x] specify the max lenght of the input value
 - [x] specify the number of char before a separtor
 
-[^1]: #ad i develop a few month ago an app and an addon for Firefox and Chrome about the pomodoro method. It's a time managment method and you can find these app and addon here: [playstore-pomodoro_goal](https://play.google.com/store/apps/details?id=com.ledoc229.pomodoro), [Firefox-pomodoro.addon](https://addons.mozilla.org/fr/firefox/addon/pomodoro-addon/), [chrome-pomodoro.addon](https://chrome.google.com/webstore/detail/pomodoroaddon/ahnlkheoldhohigbeeikiieifkagoikc)
+[^1]: i develop a few month ago an app and an addon for Firefox and Chrome about the pomodoro method. It's a time managment method and you can find these app and addon here: 
+[playstore](https://play.google.com/store/apps/details?id=com.ledoc229.pomodoro), 
+[Firefox](https://addons.mozilla.org/fr/firefox/addon/pomodoro-addon/), 
+[chrome](https://chrome.google.com/webstore/detail/pomodoroaddon/ahnlkheoldhohigbeeikiieifkagoikc)
 [^2]: Contact me if you want collabo, or anything else.
 [Twitter](https://twitter.com/darrell_kidjo)
 [Instagram](https://www.instagram.com/kidjodarrell?r=nametag)
 [LinkedIn](www.linkedin.com/in/darrell-kidjo-ab49381a3)
+
+
