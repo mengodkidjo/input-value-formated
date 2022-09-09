@@ -4,17 +4,16 @@ var separator = "-";
 
 const allInput = this.document.querySelectorAll(".param_input");
 allInput.forEach((input) => {
-    input.addEventListener("keypress",(e) => {
-        updateGlobalVar();
+    input.addEventListener("keypress", (e) => {
+        // updateGlobalVar();
+        //         console.log(maxLengthWanted)
 
 })
 
 })
 var inputVar = this.document.getElementById("card_value");
-inputVar.maxLength = maxLengthWanted + ( maxLengthWanted / totalBeforSpace) - 1 ;
 inputVar.addEventListener("keypress", (e) => {
-    console.log(e);
-     updateGlobalVar();
+         updateGlobalVar();
     if (e.key == separator) {
         e.preventDefault()
     } else {
@@ -27,7 +26,7 @@ inputVar.addEventListener("keypress", (e) => {
 })
 
 function insertSpace(value, charNumber, maxLength){
-
+    
     if(value.length == charNumber){
         return value + separator; 
     } else if(value.length < charNumber){
@@ -46,10 +45,8 @@ function updateGlobalVar() {
     separator = this.document.getElementById("separator").value == ""? " " : this.document.getElementById("separator").value;
     maxLengthWanted = this.document.getElementById("max_input_lenght").value == "" ? 16 : parseInt(this.document.getElementById("max_input_lenght").value);
     totalBeforSpace = this.document.getElementById("before_space").value == "" ? 4 : parseInt(this.document.getElementById("before_space").value);
-    if (maxLengthWanted < totalBeforSpace) {
-        alert("Seriously ?! what do you want ?");
-        this.document.getElementById("before_space").value = "";
-        this.document.getElementById("max_input_lenght").value = "";
-     }
+    inputVar.maxLength = maxLengthWanted + ( maxLengthWanted / totalBeforSpace) - 1 ;
+
+    // console.log(maxLengthWanted);
 
 }
